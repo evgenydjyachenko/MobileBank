@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\user\Desktop\ООП exam\Mobile Bank\Personal finance management\Main.cpp(11,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\ООП exam\Mobile Bank\Personal finance management\Main.cpp(13,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\ООП exam\Mobile Bank\Personal finance management\Main.cpp(53,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\ООП exam\Mobile Bank\Personal finance management\Main.cpp(55,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Personal finance management.vcxproj -> C:\Users\user\Desktop\ООП exam\Mobile Bank\x64\Debug\Personal finance management.exe
